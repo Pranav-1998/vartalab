@@ -1,5 +1,5 @@
 import { Award, BookOpen, Users, TrendingUp } from "lucide-react";
-import instructorImage from "@/assets/instructor-kiran.jpg";
+import instructorImage from "@/assets/kiran-photo.jpg";
 
 const achievements = [
   {
